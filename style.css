@@ -1,0 +1,35 @@
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #3b5998;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 10px;
+}
+
+a {
+  color: #3b5998;
+}
